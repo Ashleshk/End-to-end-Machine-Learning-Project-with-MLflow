@@ -101,3 +101,8 @@ x==========x]
 [2024-06-02 15:38:40,779: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
 
 x==========x]
+[2024-06-02 17:08:41,229: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-06-02 17:08:41,232: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-02 17:08:41,235: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-06-02 17:08:41,235: INFO: common: created directory at: artifacts]
+[2024-06-02 17:08:41,236: INFO: common: created directory at: artifacts/data_validation]
