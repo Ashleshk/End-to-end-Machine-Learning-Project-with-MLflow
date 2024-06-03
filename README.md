@@ -1,10 +1,12 @@
 # End-to-end-Machine-Learning-Project-with-MLflow
 
-1. CI/CD Implementation using AWS Github Action
+1. **CI/CD Implementation using AWS Github Action**
 ![CICD Implementation using AWS Github Action](/images/CICD%20Implementation.png)
 
-2. User Interactive App deployed in AWS ECR
+2. **User Interactive App deployed in AWS ECR**
 ![User Interactive app](/images/UserEndpoint%20using%20Flask.png)
+
+
 ## MLflow
 
 [Documentation](https://mlflow.org/docs/latest/index.html)
