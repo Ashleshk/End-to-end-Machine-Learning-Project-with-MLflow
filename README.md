@@ -1,5 +1,10 @@
 # End-to-end-Machine-Learning-Project-with-MLflow
 
+1. CI/CD Implementation using AWS Github Action
+![CICD Implementation using AWS Github Action](/images/CICD%20Implementation.png)
+
+2. User Interactive App deployed in AWS ECR
+![User Interactive app](/images/UserEndpoint%20using%20Flask.png)
 ## MLflow
 
 [Documentation](https://mlflow.org/docs/latest/index.html)
@@ -85,11 +90,11 @@ export MLFLOW_TRACKING_PASSWORD=a86163024f0fc3112229ff0f628c80dbde7d2452
 
 	newgrp docker
 	
-# 6. Configure EC2 as self-hosted runner:
+## 6. Configure EC2 as self-hosted runner:
     setting>actions>runner>new self hosted runner> choose os> then run command one by one
 
 
-# 7. Setup github secrets:
+## 7. Setup github secrets:
 
     AWS_ACCESS_KEY_ID=
 
